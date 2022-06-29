@@ -11,4 +11,6 @@ Instructions for Run application,
 
 for this app i use provider to state management. reason for that is state management using provider is easy for this kind app approach. and also can be set up with unidirectional data flow without much difficulty and UI and data flows are separate. for large scale app i recommend to do it with BLoC.
 
+APK :- https://drive.google.com/file/d/1TM-AWlz4ph1bwIlWfp_btx2Bu0IlO1Ym/view?usp=sharing
+
 Thank You..!
